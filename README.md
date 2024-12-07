@@ -19,8 +19,8 @@ MongoDB (local or cloud instance, e.g., MongoDB Atlas)
 Installation
 
 Clone the repository:
-git clone https://github.com/your-username/task-management-api.git
-cd task-management-api
+git clone https://github.com/venkateswarlu257/webspider-assignment.git
+cd webspider-assignment
 
 
 Install dependencies:
